@@ -21,7 +21,7 @@ conf = {
 """
 1) DAM_embedding_file is the path of word embedding file. In our model, we use the embedding file of DAM, 
 the download path: https://pan.baidu.com/s/1hakfuuwdS8xl7NyxlWzRiQ
-2) Beside the embedding file, we also use the same data format as DAM. 
+2) Besides the embedding file, we also use the same data format as DAM. 
 
 """
 DAM_embedding_file=""
